@@ -8,7 +8,6 @@
       <div>表格</div>
       <HelloWorld />
     </div>
-    
   </div>
 </template>
 
